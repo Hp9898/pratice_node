@@ -16,6 +16,6 @@ db.on('connected',()=>{
 db.on('error',()=>{
     console.log("error in database");
 })
-
+//djfnjnbgj
 module.exports = db;
 
